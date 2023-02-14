@@ -1,0 +1,16 @@
+p,h1{
+    color: rgb(222, 146, 146);
+}
+
+body{
+    background: linear-gradient(to right, transparent, mistyrose),
+    url("critters.png");
+}
+
+style{
+    margin: auto;
+}
+
+h1{
+    font-family: 'Rubik+Gemstones',sans-serif;
+}
